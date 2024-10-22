@@ -27,6 +27,11 @@ Data Inspection (head, tail, info, describe) provides quick insights into the st
 Data Manipulation (loc, iloc, groupby, merge) enables flexible indexing and merging of data, essential for analysis.
 Reshaping and Aggregating (pivot_table, melt) help in reorganizing data for different analytical perspectives.
 
+# **NumPy Function**
+NumPy is a powerful library in Python that provides support for large, multi-dimensional arrays and matrices, along with a collection of mathematical functions
+
+NumPy’s versatile functions are fundamental for efficient data manipulation, statistical analysis, and mathematical operations, making it an essential tool for data analysis in Python. Its ability to handle large datasets and perform complex calculations rapidly allows analysts to derive insights and make data-driven decisions effectively.
+
 
 # **Matplotlib and Seaborn Functions**
 These libraries are used for data visualization in Python:
